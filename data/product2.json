@@ -1,0 +1,23 @@
+[
+    {
+        "id": 4,
+        "title": "Green Revolution",
+        "src" : "/images/plant1.jpg",
+        "price": "Sponsor for $20.00",
+        "alt": "A plant warrior"
+    },
+    {
+        "id": 5,
+        "title": "Green Revolution",
+        "src": "/images/plant2.jpg",
+        "price": "Sponsor for $50.00",
+        "alt": "Plant Warrior"
+    },
+    {
+        "id": 6,
+        "title": "Green Revolution",
+        "src": "/images/plant3.png",
+        "price": "Sponsor for $80.00",
+        "alt": "Plant Warrior"
+    }
+]

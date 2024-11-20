@@ -1,0 +1,23 @@
+[
+    {
+        "id": 10,
+        "title": "Head Phones",
+        "src" : "/images/pexels-garrett-morrow-1649771.jpg",
+        "price": "$300.00",
+        "alt": "midlevel phones"
+    },
+    {
+        "id": 11,
+        "title": "Head Phones",
+        "src": "/images/pexels-sound-on-3394656.jpg",
+        "price": "$75.00",
+        "alt": "cheap phones"
+    },
+    {
+        "id": 12,
+        "title": "Head Phones",
+        "src": "/images/pexels-wallace-chuck-3587477.jpg",
+        "price": "$400.00",
+        "alt": "professional phones"
+    }
+]

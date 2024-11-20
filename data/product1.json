@@ -1,0 +1,26 @@
+
+
+
+[
+    {
+        "id": 1,
+        "title": "Emotional Support Animal",
+        "src" : "/images/cat1.jpg",
+        "price": "$15.00 hour",
+        "alt": "A sweet kitty"
+    },
+    {
+        "id": 2,
+        "title": "Emotional Support Animal",
+        "src": "/images/cat2.jpg",
+        "price": "$13.75 hour",
+        "alt": "A precious animal"
+    },
+    {
+        "id": 3,
+        "title": "Emotional Support Animal",
+        "src": "/images/cat3.png",
+        "price": "$17.00 hour",
+        "alt": "Kitty Cat"
+    }
+]

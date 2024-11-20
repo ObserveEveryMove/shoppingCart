@@ -1,0 +1,23 @@
+[
+    {
+        "id": 7,
+        "title": "Pet Rock",
+        "src" : "/images/minerals.png",
+        "price": "$30.00",
+        "alt": "Your own piece of the mineral kingdom"
+    },
+    {
+        "id": 8,
+        "title": "Pet Rock",
+        "src": "/images/minerals2.jpg",
+        "price": "$45.00",
+        "alt": "Another piece of the mineral kingdom"
+    },
+    {
+        "id": 9,
+        "title": "Pet Rock",
+        "src": "/images/minerals3.jpg",
+        "price": "$40.00",
+        "alt": "Just a rock"
+    }
+]
